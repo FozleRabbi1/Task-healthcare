@@ -53,7 +53,7 @@ const Testimonial = () => {
               </div>
               <div className="flex">
                 <img
-                  src="../../../../public/Ellipse 10.png"
+                  src="https://i.ibb.co/Wk4D9jz/Ellipse-10.png"
                   alt=""
                   className="size-10 mr-3"
                 />
@@ -66,7 +66,7 @@ const Testimonial = () => {
                       IT Professional
                     </h2>
                   </span>
-                  <img src="../../../../public/Frame 10.png" alt="" />
+                  <img src="https://i.ibb.co/y5v1QyX/Frame-10.png" alt="" />
                 </div>
               </div>
             </div>
@@ -87,7 +87,7 @@ const Testimonial = () => {
               </div>
               <div className="flex">
                 <img
-                  src="../../../../public/Ellipse 10.png"
+                  src="https://i.ibb.co/Wk4D9jz/Ellipse-10.png"
                   alt=""
                   className="size-10 mr-3"
                 />
@@ -100,7 +100,7 @@ const Testimonial = () => {
                       IT Professional
                     </h2>
                   </span>
-                  <img src="../../../../public/Frame 10.png" alt="" />
+                  <img src="https://i.ibb.co/y5v1QyX/Frame-10.png" alt="" />
                 </div>
               </div>
             </div>
@@ -121,7 +121,7 @@ const Testimonial = () => {
               </div>
               <div className="flex">
                 <img
-                  src="../../../../public/Ellipse 10.png"
+                  src="https://i.ibb.co/Wk4D9jz/Ellipse-10.png"
                   alt=""
                   className="size-10 mr-3"
                 />
@@ -134,7 +134,7 @@ const Testimonial = () => {
                       IT Professional
                     </h2>
                   </span>
-                  <img src="../../../../public/Frame 10.png" alt="" />
+                  <img src="https://i.ibb.co/y5v1QyX/Frame-10.png" alt="" />
                 </div>
               </div>
             </div>
@@ -155,7 +155,7 @@ const Testimonial = () => {
               </div>
               <div className="flex">
                 <img
-                  src="../../../../public/Ellipse 10.png"
+                  src="https://i.ibb.co/Wk4D9jz/Ellipse-10.png"
                   alt=""
                   className="size-10 mr-3"
                 />
@@ -168,7 +168,7 @@ const Testimonial = () => {
                       IT Professional
                     </h2>
                   </span>
-                  <img src="../../../../public/Frame 10.png" alt="" />
+                  <img src="https://i.ibb.co/y5v1QyX/Frame-10.png" alt="" />
                 </div>
               </div>
             </div>
@@ -189,7 +189,7 @@ const Testimonial = () => {
               </div>
               <div className="flex">
                 <img
-                  src="../../../../public/Ellipse 10.png"
+                  src="https://i.ibb.co/Wk4D9jz/Ellipse-10.png"
                   alt=""
                   className="size-10 mr-3"
                 />
@@ -202,7 +202,7 @@ const Testimonial = () => {
                       IT Professional
                     </h2>
                   </span>
-                  <img src="../../../../public/Frame 10.png" alt="" />
+                  <img src="https://i.ibb.co/y5v1QyX/Frame-10.png" alt="" />
                 </div>
               </div>
             </div>
@@ -223,7 +223,7 @@ const Testimonial = () => {
               </div>
               <div className="flex">
                 <img
-                  src="../../../../public/Ellipse 10.png"
+                  src="https://i.ibb.co/Wk4D9jz/Ellipse-10.png"
                   alt=""
                   className="size-10 mr-3"
                 />
@@ -236,7 +236,7 @@ const Testimonial = () => {
                       IT Professional
                     </h2>
                   </span>
-                  <img src="../../../../public/Frame 10.png" alt="" />
+                  <img src="https://i.ibb.co/y5v1QyX/Frame-10.png" alt="" />
                 </div>
               </div>
             </div>

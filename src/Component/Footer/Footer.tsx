@@ -3,7 +3,7 @@ const Footer = () => {
     <div className="max-w-[1160px] mx-auto px-5 py-20">
       <img
         className="mb-5"
-        src="../../.../../../public/logo light.png"
+        src="https://i.ibb.co/88TTcgk/logo-light.png"
         alt=""
       />
       <footer className="footer text-[#CCCCD1] flex justify-between ">
@@ -33,7 +33,7 @@ const Footer = () => {
 
           <a className="link link-hover">
             {" "}
-            <img src="../../../public/Group 9168.png" alt="" />{" "}
+            <img src="https://i.ibb.co/prFZcjM/Group-9168.png" alt="" />{" "}
           </a>
 
           <a className="link link-hover"></a>

@@ -27,3 +27,26 @@ const MainLayout = () => {
 };
 
 export default MainLayout;
+
+
+// https://i.ibb.co/XJqRcKj/5000.png
+// https://i.ibb.co/3v95y64/Arrow-1.png
+// https://i.ibb.co/yyN4SMy/Arrow-white.png
+// https://i.ibb.co/Mc0NpFg/contract-1-1.png
+// https://i.ibb.co/Wk4D9jz/Ellipse-10.png
+// https://i.ibb.co/y5v1QyX/Frame-10.png
+// https://i.ibb.co/z4KmfQh/Group-1.png
+// https://i.ibb.co/6Jx0WPL/Group-7.png
+// https://i.ibb.co/y443hKd/Group-12.png
+// https://i.ibb.co/T188nfV/Group-28.png
+// https://i.ibb.co/mFV9JfC/Group-43.png
+// https://i.ibb.co/prFZcjM/Group-9168.png
+// https://i.ibb.co/dLKSwHN/Group.png
+// https://i.ibb.co/v1XtNH8/logo-dark.png
+// https://i.ibb.co/88TTcgk/logo-light.png
+// https://i.ibb.co/rv7FBJB/Rectangle-24.png
+// https://i.ibb.co/GvRCjGf/Rectangle-27-1.png
+// https://i.ibb.co/gZ3XvQr/Rectangle-27-2.png
+// https://i.ibb.co/8bJRQq9/Rectangle-27.png
+// https://i.ibb.co/L9kxy5z/Rectangle-33.png
+// https://i.ibb.co/vdZtngL/Vector.png

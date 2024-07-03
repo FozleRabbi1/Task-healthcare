@@ -18,14 +18,14 @@ const HelpSolution = () => {
           <span>Learn More</span>
           <img
             className="size-3 ml-2"
-            src="../../../public/Arrow 1.png"
+            src="https://i.ibb.co/3v95y64/Arrow-1.png"
             alt=""
           />{" "}
         </button>
       </div>
 
       <div className="right-div">
-        <img src="../../../../public/Rectangle 24.png" alt="" />
+        <img src="https://i.ibb.co/rv7FBJB/Rectangle-24.png" alt="" />
         <div>
           <h2 className="text-[26px] font-medium leading-[24px] text-left mb-3">
             Our mission is simple

@@ -34,7 +34,7 @@ const NavBar = () => {
               </li>
             </ul>
           </div>
-          <img src="../../../public/logo dark.png" alt="" />
+          <img src="https://i.ibb.co/v1XtNH8/logo-dark.png" alt="" />
         </div>
 
         <div className="navbar-center hidden lg:flex">
@@ -59,7 +59,7 @@ const NavBar = () => {
             <span>Appointment</span>
             <img
               className="size-3 ml-2"
-              src="../../../public/Arrow 1.png"
+              src="https://i.ibb.co/3v95y64/Arrow-1.png"
               alt=""
             />{" "}
           </button>

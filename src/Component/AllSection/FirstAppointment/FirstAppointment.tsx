@@ -2,10 +2,10 @@ const FirstAppointment = () => {
   return (
     <div className="py-32">
       <div className="relative">
-        <img src="../../../../public/Group 43.png" alt="" />
+        <img src="https://i.ibb.co/mFV9JfC/Group-43.png" alt="" />
         <img
           className="absolute top-0 left-0"
-          src="../../../../public/Rectangle 33.png"
+          src="https://i.ibb.co/L9kxy5z/Rectangle-33.png"
           alt=""
         />
 
@@ -19,7 +19,7 @@ const FirstAppointment = () => {
               <span>Appointment</span>
               <img
                 className="size-3 ml-2"
-                src="../../../public/Arrow 1.png"
+                src="https://i.ibb.co/3v95y64/Arrow-1.png"
                 alt=""
               />{" "}
             </button>
@@ -28,7 +28,7 @@ const FirstAppointment = () => {
               <span>Learn More</span>
               <img
                 className="size-3 ml-2"
-                src="../../../public/Arrow white.png"
+                src="https://i.ibb.co/yyN4SMy/Arrow-white.png"
                 alt=""
               />{" "}
             </button>
@@ -37,7 +37,7 @@ const FirstAppointment = () => {
 
         <img
           className="absolute top-10 right-10"
-          src="../../../../public/logo light.png"
+          src="https://i.ibb.co/88TTcgk/logo-light.png"
           alt=""
         />
       </div>

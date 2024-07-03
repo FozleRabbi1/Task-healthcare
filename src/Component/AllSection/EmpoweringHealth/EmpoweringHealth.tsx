@@ -15,14 +15,14 @@ const EmpoweringHealth = () => {
           <span>Appointment</span>
           <img
             className="size-3 ml-2"
-            src="../../../public/Arrow 1.png"
+            src="https://i.ibb.co/3v95y64/Arrow-1.png"
             alt=""
           />{" "}
         </button>
       </div>
 
       <div className="right-divv">
-        <img src="../../../../public/Rectangle 27.png" alt="" />
+        <img src="https://i.ibb.co/8bJRQq9/Rectangle-27.png" alt="" />
 
         <div className="text-divv">
           <div>
@@ -38,14 +38,14 @@ const EmpoweringHealth = () => {
 
           <img
             className="size-12"
-            src="../../../../public/Group 28.png"
+            src="https://i.ibb.co/T188nfV/Group-28.png"
             alt=""
           />
         </div>
       </div>
 
       <div className="right-divv">
-        <img src="../../../../public/Rectangle 27 (1).png" alt="" />
+        <img src="https://i.ibb.co/GvRCjGf/Rectangle-27-1.png" alt="" />
 
         <div className="text-divv">
           <div>
@@ -61,14 +61,14 @@ const EmpoweringHealth = () => {
 
           <img
             className="size-12"
-            src="../../../../public/Group 28.png"
+            src="https://i.ibb.co/T188nfV/Group-28.png"
             alt=""
           />
         </div>
       </div>
 
       <div className="right-divv">
-        <img src="../../../../public/Rectangle 27 (2).png" alt="" />
+        <img src="https://i.ibb.co/gZ3XvQr/Rectangle-27-2.png" alt="" />
 
         <div className="text-divv">
           <div>
@@ -84,7 +84,7 @@ const EmpoweringHealth = () => {
 
           <img
             className="size-12"
-            src="../../../../public/Group 28.png"
+            src="https://i.ibb.co/T188nfV/Group-28.png"
             alt=""
           />
         </div>
