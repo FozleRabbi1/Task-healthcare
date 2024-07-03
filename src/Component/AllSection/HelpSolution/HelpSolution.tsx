@@ -2,7 +2,7 @@ import "./helpSolution.css";
 
 const HelpSolution = () => {
   return (
-    <div className="grid grid-cols-2 py-20">
+    <div className="grid grid-cols-2 pt-20 pb-40">
       <div className="left-div">
         <button className="button">Who we are</button>
         <h2>We Help To Get Solutions</h2>
@@ -14,7 +14,7 @@ const HelpSolution = () => {
           patient with dignity, respect, and empathy, ensuring that they receive
           the attention and care they deserve.
         </p>
-        <button className="position-button flex justify-center items-center bg-[#FFC637] w-[158px]  rounded-xl py-2">
+        <button className="position-button flex justify-center items-center bg-[#FFC637] w-[158px]  rounded-xl py-2 -mb-8">
           <span>Learn More</span>
           <img
             className="size-3 ml-2"
