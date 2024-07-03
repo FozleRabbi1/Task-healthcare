@@ -26,15 +26,24 @@ const NavBar = () => {
               className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow"
             >
               <li>
-                <a>Item 1</a>
+                <a>Home</a>
               </li>
-
               <li>
-                <a>Item 3</a>
+                <a>Service</a>
+              </li>
+              <li>
+                <a>Blog</a>
+              </li>
+              <li>
+                <a>About Us</a>
               </li>
             </ul>
           </div>
-          <img src="https://i.ibb.co/v1XtNH8/logo-dark.png" alt="" />
+          <img
+            className="w-[100px] md:w-[120px]"
+            src="https://i.ibb.co/v1XtNH8/logo-dark.png"
+            alt=""
+          />
         </div>
 
         <div className="navbar-center hidden lg:flex">
@@ -55,7 +64,7 @@ const NavBar = () => {
         </div>
 
         <div className="navbar-end ">
-          <button className=" flex justify-center items-center border border-[#343268] w-[174px] h-full rounded-xl py-2">
+          <button className=" flex justify-center items-center border border-[#343268] w-[150px] md:w-[174px] h-full rounded-xl py-2">
             <span>Appointment</span>
             <img
               className="size-3 ml-2"

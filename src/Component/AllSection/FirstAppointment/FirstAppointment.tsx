@@ -1,6 +1,6 @@
 const FirstAppointment = () => {
   return (
-    <div className="py-32">
+    <div className="py-16 md:py-32">
       <div className="relative">
         <img src="https://i.ibb.co/mFV9JfC/Group-43.png" alt="" />
         <img
@@ -9,13 +9,13 @@ const FirstAppointment = () => {
           alt=""
         />
 
-        <div className="absolute top-[25%] left-[5%] w-[35%]">
-          <h2 className="font-inter text-[40px] font-semibold leading-[60px] text-left mb-5 text-white">
-            Get Your <br /> First Appointment <br /> at 50% Off!
+        <div className="absolute top-[25%] left-[5%] md:w-[35%]">
+          <h2 className="font-inter md:text-[40px] font-semibold md:leading-[60px] text-left mb-5 text-white w-[60%] md:w-[70%]">
+            Get Your First Appointment at 50% Off!
           </h2>
 
-          <span className="flex ">
-            <button className="mr-5 flex justify-center items-center bg-[#FFC637] w-[158px]  rounded-xl py-2">
+          <span className="flex -mt-6 md:mt-0 ">
+            <button className="mr-5 flex justify-center items-center bg-[#FFC637] md:w-[158px]  rounded-xl p-1 md:py-2">
               <span>Appointment</span>
               <img
                 className="size-3 ml-2"
@@ -24,7 +24,7 @@ const FirstAppointment = () => {
               />{" "}
             </button>
 
-            <button className=" flex justify-center items-center w-[158px] border border-gray-500  bg-transparent rounded-xl py-2 text-white">
+            <button className=" flex justify-center items-center md:w-[158px] border border-gray-500  bg-transparent rounded-xl p-1 md:py-2 text-white">
               <span>Learn More</span>
               <img
                 className="size-3 ml-2"
@@ -36,7 +36,7 @@ const FirstAppointment = () => {
         </div>
 
         <img
-          className="absolute top-10 right-10"
+          className="absolute top-2 md:top-10 right-2 md:right-10"
           src="https://i.ibb.co/88TTcgk/logo-light.png"
           alt=""
         />

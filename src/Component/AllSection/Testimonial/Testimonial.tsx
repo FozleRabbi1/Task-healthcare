@@ -6,10 +6,10 @@ import { Pagination } from "swiper/modules";
 
 const Testimonial = () => {
   return (
-    <div className="py-32">
-      <div className="mb-14">
+    <div className="py-16 md:py-32">
+      <div className="mb-4 md:mb-14">
         <button className="button">Testimonial</button>
-        <h2 className="font-inter text-[36px] font-semibold leading-[54px] text-left my-5">
+        <h2 className="font-inter text-[25px] md:text-[36px] font-semibold md:leading-[54px] text-left my-3 md:my-5">
           What they say about us
         </h2>
       </div>

@@ -73,3 +73,24 @@
   height: 35px;
   width: 100px;
 }
+
+@media (max-width: 600px) {
+  .main-section .main-title {
+    position: static;
+    top: auto;
+    left: auto;
+    transform: none;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    margin-bottom: 20px;
+  }
+  .main-section .stats-container {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .main-section .stats-container div {
+    width: 85%;
+  }
+}

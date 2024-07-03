@@ -8,9 +8,7 @@ const HeroSection = () => {
 
       <div className="ComprehensiveCare py-16">
         <div className="main-section ">
-          <h1 className="main-title">
-            Comprehensive Care <br /> for Every Patient
-          </h1>
+          <h1 className="main-title ">Comprehensive Care for Every Patient</h1>
 
           <div className="stats-container">
             <div className="large">
@@ -62,6 +60,8 @@ const HeroSection = () => {
               <img src="https://i.ibb.co/z4KmfQh/Group-1.png" alt="Icon 5" />
             </div>
           </div>
+
+          
         </div>
       </div>
     </div>

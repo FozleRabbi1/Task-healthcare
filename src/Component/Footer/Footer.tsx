@@ -6,7 +6,7 @@ const Footer = () => {
         src="https://i.ibb.co/88TTcgk/logo-light.png"
         alt=""
       />
-      <footer className="footer text-[#CCCCD1] flex justify-between ">
+      <footer className="footer text-[#CCCCD1] flex justify-between flex-col md:flex-row ">
         <aside>
           <p className="mb-2 font-inter text-[16px] font-normal leading-[24px] text-left ">
             123 Main Street Anytown, <br /> USA Postal Code: 12345
