@@ -1,0 +1,75 @@
+.main-section {
+  text-align: center;
+  position: relative;
+}
+
+.main-section .main-title {
+  position: absolute;
+  font-size: 48px;
+  font-weight: 600;
+  line-height: 56px;
+  text-align: center;
+  top: 0%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  padding: 0;
+}
+
+.main-section .stats-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 20px;
+}
+
+.main-section .stats-container div {
+  width: 226px;
+  border-radius: 24px;
+  background-color: #fbfbfb;
+  border: 0.5px solid rgb(228, 226, 226);
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-section .stats-container div h2 {
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 46.76px;
+  text-align: left;
+}
+.main-section .stats-container div p {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 21px;
+  text-align: left;
+}
+
+.main-section .stats-container div img {
+  margin-top: auto;
+}
+
+.main-section .stats-container .large {
+  height: 312px;
+}
+.main-section .stats-container .large img {
+  width: 130px;
+  align-self: center;
+}
+
+.main-section .stats-container .medium {
+  height: 190px;
+}
+.main-section .stats-container .medium img {
+  height: 77px;
+  width: 77px;
+  align-self: self-end;
+}
+
+.main-section .stats-container .small {
+  height: 162px;
+}
+.main-section .stats-container .small .public {
+  height: 35px;
+  width: 100px;
+}

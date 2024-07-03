@@ -1,0 +1,49 @@
+.empoweringHealth .button {
+  width: 139px;
+  height: 43.4px;
+  top: 1108px;
+  left: 139px;
+  gap: 0px;
+  border-radius: 25px;
+  border: 1px solid rgb(52 50 104);
+  opacity: 0px;
+  background-color: #fbfbfb;
+}
+.empoweringHealth .left-divv {
+  position: relative;
+}
+.empoweringHealth .left-divv h2 {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  text-align: left;
+  width: 70%;
+  margin: 25px 0;
+}
+
+.empoweringHealth .left-divv p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+.empoweringHealth .left-divv .position-button {
+  position: absolute;
+  bottom: 0;
+}
+
+.empoweringHealth .right-divv {
+  position: relative;
+}
+.empoweringHealth .right-divv .text-divv {
+  background-color: rgba(37, 35, 82, 0.8);
+  color: white;
+  padding: 30px;
+  width: 65%;
+  border-radius: 32px;
+  position: absolute;
+  bottom: 5%;
+  left: 5%;
+  display: flex;
+  align-items: flex-end;
+}

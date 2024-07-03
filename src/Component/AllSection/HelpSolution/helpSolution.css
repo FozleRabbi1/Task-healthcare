@@ -1,0 +1,47 @@
+.button {
+  width: 139px;
+  height: 43.4px;
+  top: 1108px;
+  left: 139px;
+  gap: 0px;
+  border-radius: 25px;
+  border: 1px solid rgb(52 50 104);
+  opacity: 0px;
+  background-color: #fbfbfb;
+}
+.left-div {
+  position: relative;
+}
+.left-div h2 {
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+  text-align: left;
+  width: 50%;
+  margin: 25px 0;
+}
+
+.left-div p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+}
+.left-div .position-button {
+  position: absolute;
+  bottom: 0;
+}
+
+.right-div {
+  position: relative;
+}
+.right-div div {
+  background-color: #343268;
+  color: white;
+  padding: 30px;
+  width: 65%;
+  border-radius: 32px;
+  position: absolute;
+  bottom: 0;
+  left: -20%;
+}
