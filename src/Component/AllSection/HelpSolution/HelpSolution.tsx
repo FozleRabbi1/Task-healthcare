@@ -15,7 +15,7 @@ const HelpSolution = () => {
           the attention and care they deserve.
         </p>
         <button className="position-button flex justify-center items-center bg-[#FFC637] w-[158px]  rounded-xl py-2">
-          <span>Lear More</span>
+          <span>Learn More</span>
           <img
             className="size-3 ml-2"
             src="../../../public/Arrow 1.png"
