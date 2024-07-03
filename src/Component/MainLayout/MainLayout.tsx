@@ -1,6 +1,7 @@
 import EmpoweringHealth from "../AllSection/EmpoweringHealth/EmpoweringHealth";
 import HelpSolution from "../AllSection/HelpSolution/HelpSolution";
 import HeroSection from "../AllSection/HeroSection/HeroSection";
+import Testimonial from "../AllSection/Testimonial/Testimonial";
 import NavBar from "../NavBar/NavBar";
 
 const MainLayout = () => {
@@ -10,6 +11,7 @@ const MainLayout = () => {
       <HeroSection></HeroSection>
       <HelpSolution></HelpSolution>
       <EmpoweringHealth />
+      <Testimonial />
     </div>
   );
 };

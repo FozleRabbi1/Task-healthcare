@@ -1,14 +1,3 @@
-.button {
-  width: 139px;
-  height: 43.4px;
-  top: 1108px;
-  left: 139px;
-  gap: 0px;
-  border-radius: 25px;
-  border: 1px solid rgb(52 50 104);
-  opacity: 0px;
-  background-color: #fbfbfb;
-}
 .left-div {
   position: relative;
 }
