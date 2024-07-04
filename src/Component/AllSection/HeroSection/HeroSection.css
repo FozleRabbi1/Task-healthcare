@@ -64,6 +64,7 @@
   height: 77px;
   width: 77px;
   align-self: self-end;
+  margin-top: -12px;
 }
 
 .main-section .stats-container .small {

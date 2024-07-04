@@ -60,8 +60,6 @@ const HeroSection = () => {
               <img src="https://i.ibb.co/z4KmfQh/Group-1.png" alt="Icon 5" />
             </div>
           </div>
-
-          
         </div>
       </div>
     </div>
